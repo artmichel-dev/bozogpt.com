@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
 import Image from "next/image";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -120,6 +121,7 @@ export default function RootLayout({
         <main className="flex flex-col h-viewport overflow-hidden viewport-content" role="main">
           {children}
         </main>
+        <Analytics/>
       </body>
     </html>
   );
