@@ -8,11 +8,13 @@ export const useOperaDetection = () => {
     setIsClient(true);
     if (typeof window !== 'undefined') {
       const userAgent = window.navigator.userAgent;
+      // @ts-expect-error Opera is not typed in TS
+      const isOperaObject = typeof window.opera !== 'undefined';
       const isOperaBrowser =
         userAgent.includes('OPR/') || // Opera Desktop
         userAgent.includes('Opera/') || // Opera Mobile
         (userAgent.includes('Opera') && !userAgent.includes('Chrome')) || // Opera legacy
-        (window as any).opera || // Opera object
+        isOperaObject ||
         userAgent.includes('OPiOS') || // Opera iOS
         userAgent.includes('OPAndroid'); // Opera Android
       setIsOpera(!!isOperaBrowser);

@@ -1,21 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1200 630">
-  <!-- Generator: Adobe Illustrator 29.6.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 9)  -->
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <style>
-      .st0 {
-        fill: #fff;
-      }
-
-      .st1 {
-        fill: #27272a;
-      }
-    </style>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#18181b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#27272a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
+    </linearGradient>
   </defs>
-  <rect class="st1" width="1200" height="630"/>
-  <path class="st0" d="M624.86,204.91c25.53-7.46,52.73.38,70.13,20.36,12.76,14.58,17.4,34.51,14.1,53.54,41.3,33.08,24.19,99.96-25.86,112.81-5.02,24.09-22.95,43.64-46.56,50.72s-49.38.24-65.92-17.64c-3.44,1.1-6.93,2.01-10.52,2.53-49.33,7.12-88.82-36.52-75.81-84.71-6.45-7.41-11.47-15.92-14.15-25.43-9.99-35.47,10.42-72.13,46.46-80.31,9.27-45.6,64.34-68.41,101.82-38.29,2.25,1.77,4.78,3.97,6.26,6.36h0l.05.05ZM529.63,293.01h-13c-.38,0-1.29-.91-1.29-1.29v-40.06c-30.55,10.13-42.97,46.85-26.29,74.24,3.15,5.21,7.27,9.8,11.57,14.05-5.5,9.13-5.98,21.89-3.92,32.12,5.59,28.06,35.66,46.61,63.43,40.82,10.95-2.29,17.35-8.6,26.53-14.1.33-.19.76.19.57-.81-19.79-2.39-38.05-15.15-45.6-33.8l-23.42-.1c-2.34-.43-4.21-1.67-5.07-3.97-1.15-2.96.24-17.21-.43-17.83-.19-.19-2.96.53-3.87-1.58-.62-1.43-.48-4.35,1-5.21,1-.57,2.77-.24,2.87-.33.24-.24.24-6.88,0-7.17-.19-.19-3.73.76-4.16-2.39s.81-5.5,4.16-4.35l-.29-15.92c.67-3.59,2.53-5.74,6.21-6.21,6.84-.91,15.2.53,22.23-.14,4.68-15.58,18.02-28.92,34.56-30.88l14.58-27.39c.24-.81-1.91-3.06-2.39-4.4-3.25-8.7,4.88-17.73,13.81-15.68l10.9-8.65c-25.05-23.95-66.16-12.24-79.07,18.74-6.26,14.96-4.35,41.21-3.68,57.65.05,1.53,0,3.15,0,4.68h0l.05-.05ZM683.89,376.9c10.28-3.68,19.26-10.9,25.53-19.84,16.68-23.95,9.56-57.27-15.34-72.23,2.2-9.9,3.11-19.07.91-29.11-5.55-25.38-29.88-41.25-55.31-39.53-12.72.86-19.74,7.36-29.16,14.82-.57,1.72-.29,3.3-.91,5.11-.43,1.29-2.87,3.82-2.68,4.54l14.63,27.39c16.54,2.06,29.88,15.3,34.56,30.88.86.72,19.12-.29,22.32.05,3.49.43,5.83,2.63,6.26,6.17.24,2.29-.57,15.06,0,15.63.19.19,3.25-.57,3.97,1.86,1,3.2-.81,6.41-4.35,4.92.19,1.05-.29,7.27,0,7.55.19.19,3.54-.67,4.35,1.86.96,3.11-.53,5.83-3.97,5.31l-.76,34.61h-.05ZM575.43,281.83c-13.86,2.82-23.47,17.4-24.38,30.93-.67,9.37-.57,23.38,0,32.79,3.35,54.06,91.64,53.06,94.84.76.57-9.56.67-24.04,0-33.51-1-13.96-10.66-29.83-25.77-31.02-14.34-1.15-30.21.81-44.7.1h0v-.05ZM537.9,312.94h-12.05v8.27c6.07-1.53,6.36,7.46,0,6.98.19.96-.24,6.69,0,6.93.14.14,2.77-.29,3.92,1.15.91,1.05.86,3.78,0,4.88-1.34,1.67-3.92.91-3.92,1.15v7.89h12.05v-37.24h0ZM671.46,312.94h-11.86s-.57.53-.57.57v36.66h12.05v-7.89s-2.34.53-3.78-1.29c-1.15-1.48-1.05-3.35.19-4.73,1.39-1.53,3.44-.96,3.59-1.1.24-.24-.19-5.98,0-6.93-6.36.14-5.93-8.65.38-6.98v-8.27h0v-.05ZM669.94,363.71l-14.68.57c-4.78,11.33-12.72,20.51-23.47,26.58-14.44,8.17-29.97,14.96-44.12,23.57-.96.57-3.2,1.86-3.87,2.53-1.05,1.05,0,.81.57,1.29,25.43,24.19,70.41,11.33,82.41-20.7,4.16-11.19,3.15-22.13,3.2-33.84h-.05Z"/>
-  <path class="st0" d="M567.16,338.61c5.74-.33,6.84,5.98,9.56,9.8,11.95,16.78,34.51,15.01,44.98-2.29,1.67-2.77,1.86-5.74,5.35-7.07,4.49-1.77,9.56,2.01,9.37,6.74s-8.6,15.2-12.38,18.45c-19.74,17.02-53.3,9.42-62.43-15.11-1.77-4.78-.14-10.28,5.5-10.56h0l.05.05Z"/>
-  <path class="st0" d="M587.67,323.22c15.2-13.96,37.76,9.66,21.32,23.76-16.44,14.1-36.38-9.9-21.32-23.76Z"/>
-  <path class="st0" d="M573.95,305.49c11.23-.57,16.64,14.2,7.7,20.89-11.42,8.6-24.67-5.98-16.11-16.49,2.01-2.49,5.16-4.25,8.41-4.4Z"/>
-  <path class="st0" d="M621.37,305.49c13.53-1.05,18.02,18.4,4.78,22.85-16.25,5.5-21.46-21.61-4.78-22.85Z"/>
-</svg>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="100" r="50" fill="url(#accent)" opacity="0.1"/>
+  <circle cx="1100" cy="530" r="80" fill="url(#accent)" opacity="0.1"/>
+  <circle cx="200" cy="500" r="30" fill="url(#accent)" opacity="0.15"/>
+  
+  <!-- Main content area -->
+  <g transform="translate(100, 150)">
+    <!-- Robot emoji background -->
+    <circle cx="500" cy="100" r="80" fill="url(#accent)" opacity="0.2"/>
+    <text x="500" y="130" font-family="Arial, sans-serif" font-size="80" text-anchor="middle" fill="#fbbf24">🤖</text>
+    
+    <!-- Title -->
+    <text x="500" y="250" font-family="Arial, sans-serif" font-size="48" font-weight="bold" text-anchor="middle" fill="white">BozoGPT</text>
+    <text x="500" y="290" font-family="Arial, sans-serif" font-size="32" text-anchor="middle" fill="#fbbf24">Ignorancia Artificial</text>
+    
+    <!-- Subtitle -->
+    <text x="500" y="340" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#a1a1aa" max-width="800">
+      La primera IA entrenada con educación pública y televisión mexicana
+    </text>
+    
+    <!-- Features -->
+    <g transform="translate(200, 400)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" fill="#d4d4d8">🤡 Chatbot humorístico</text>
+      <text x="0" y="30" font-family="Arial, sans-serif" font-size="18" fill="#d4d4d8">🇲🇽 Con sabor mexicano</text>
+      <text x="0" y="60" font-family="Arial, sans-serif" font-size="18" fill="#d4d4d8">🎭 Parodia de ChatGPT</text>
+    </g>
+    
+    <g transform="translate(700, 400)">
+      <text x="0" y="0" font-family="Arial, sans-serif" font-size="18" fill="#d4d4d8">💬 Responde mal pero con actitud</text>
+      <text x="0" y="30" font-family="Arial, sans-serif" font-size="18" fill="#d4d4d8">🎪 Confunde y divierte</text>
+      <text x="0" y="60" font-family="Arial, sans-serif" font-size="18" fill="#d4d4d8">🚀 100% gratuito</text>
+    </g>
+    
+    <!-- URL -->
+    <text x="500" y="520" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#fbbf24">bozogpt.com</text>
+  </g>
+  
+  <!-- Bottom accent -->
+  <rect x="0" y="580" width="1200" height="50" fill="url(#accent)" opacity="0.3"/>
+</svg> 
