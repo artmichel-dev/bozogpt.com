@@ -44,3 +44,9 @@ Thumbs.db
 # SEGURIDAD
 *.key
 *.pem
+
+# ARCHIVOS GRANDES
+*.mp4
+
+# ARCHIVOS GRANDES
+graphics/
