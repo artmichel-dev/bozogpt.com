@@ -20,6 +20,8 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "JSON inválido" }, { status: 400 });
     }
 
+    // COMENTARIO
+
     const { messages, lang } = parsedBody;
     
     // Validar que messages existe
